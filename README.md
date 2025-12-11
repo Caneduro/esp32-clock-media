@@ -17,15 +17,15 @@
 Here are the exact components used in the build:
 
 - 🔌 **ESP32-C6 SuperMini development board (USB-C)**\
-  [https://it.aliexpress.com/item/1005009279209835.html](https://it.aliexpress.com/item/1005009279209835.html?spm=a2g0o.order_list.order_list_main.55.f9b036960kkAoD&gatewayAdapt=glo2ita)
+  [https://it.aliexpress.com/item/1005009279209835.html](https://it.aliexpress.com/item/1005009279209835.html)
 - 🖥️ **128×64 0.96″ monochrome white OLED display**\
-  [https://it.aliexpress.com/item/1005006141235306.html](https://it.aliexpress.com/item/1005006141235306.html?spm=a2g0o.order_list.order_list_main.40.f9b036960kkAoD&gatewayAdapt=glo2ita)
+  [https://it.aliexpress.com/item/1005006141235306.html](https://it.aliexpress.com/item/1005006141235306.html)
 - 🔩 **M2 brass heat inserts + M2 screws** \
-  [https://it.aliexpress.com/item/1005007615031481.html](https://it.aliexpress.com/item/1005007615031481.html?spm=a2g0o.order_list.order_list_main.60.21223696t65h7z&gatewayAdapt=glo2ita)
+  [https://it.aliexpress.com/item/1005007615031481.html](https://it.aliexpress.com/item/1005007615031481.html)
 - 📌 **Solder-pin headers (to connect the OLED via jumper wires)**\
-  [https://it.aliexpress.com/item/4000875355189.htmlt=glo2ita](https://it.aliexpress.com/item/4000875355189.html?spm=a2g0o.order_list.order_list_main.20.f9b036960kkAoD&gatewayAdapt=glo2ita)
+  [https://it.aliexpress.com/item/4000875355189.htmlt=glo2ita](https://it.aliexpress.com/item/4000875355189.html)
 - 🧵 **Female-to-female jumper cables**\
-  [https://it.aliexpress.com/item/1005003641187997.html](https://it.aliexpress.com/item/1005003641187997.html?spm=a2g0o.order_list.order_list_main.35.f9b036960kkAoD&gatewayAdapt=glo2ita)
+  [https://it.aliexpress.com/item/1005003641187997.html](https://it.aliexpress.com/item/1005003641187997.html)
 
 
 ## **How to Flash the Code to the ESP32-C6 SuperMini**
@@ -35,7 +35,7 @@ Follow these steps to upload the firmware to your ESP32-C6 using the Arduino IDE
 1. Open the IDE, go to **File → Preferences**.
 1. In *Additional Boards Manager URLs*, add this URL (if not already present):
 
-`          `*https://espressif.github.io/arduino-esp32/package\_esp32\_index.json*
+`*https://espressif.github.io/arduino-esp32/package\_esp32\_index.json* `
 
 1. Go to **Tools → Board → Boards Manager** and search for:\
    **“ESP32 by Espressif Systems”**\
@@ -94,7 +94,7 @@ Most C6 SuperMini boards auto-reset and you won’t need this step.
 All required files — firmware, the Python script, and all 3D models — are available on GitHub:\
 👉 https://github.com/caneduro/esp32-clock-media**
 ----------------------------------------------------------------------------------------------
-The project is fully **opensource**.\
+The project is fully **open-source**.\
 Anyone can fork it, modify it, improve it, or contribute.\
 The current version is not 100% complete and can definitely be refined by someone with more experience — contributions are welcome!
 
