@@ -23,7 +23,7 @@ Here are the exact components used in the build:
 - 🔩 **M2 brass heat inserts + M2 screws** \
   [https://it.aliexpress.com/item/1005007615031481.html](https://it.aliexpress.com/item/1005007615031481.html)
 - 📌 **Solder-pin headers (to connect the OLED via jumper wires)**\
-  [https://it.aliexpress.com/item/4000875355189.htmlt=glo2ita](https://it.aliexpress.com/item/4000875355189.html)
+  [https://it.aliexpress.com/item/4000875355189.html](https://it.aliexpress.com/item/4000875355189.html)
 - 🧵 **Female-to-female jumper cables**\
   [https://it.aliexpress.com/item/1005003641187997.html](https://it.aliexpress.com/item/1005003641187997.html)
 
@@ -35,7 +35,7 @@ Follow these steps to upload the firmware to your ESP32-C6 using the Arduino IDE
 1. Open the IDE, go to **File → Preferences**.
 1. In *Additional Boards Manager URLs*, add this URL (if not already present):
 
-`*https://espressif.github.io/arduino-esp32/package\_esp32\_index.json* `
+*`https://espressif.github.io/arduino-esp32/package\_esp32\_index.json`*
 
 1. Go to **Tools → Board → Boards Manager** and search for:\
    **“ESP32 by Espressif Systems”**\
