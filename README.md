@@ -35,7 +35,7 @@ Follow these steps to upload the firmware to your ESP32-C6 using the Arduino IDE
 1. Open the IDE, go to **File → Preferences**.
 1. In *Additional Boards Manager URLs*, add this URL (if not already present):
 
-*`https://espressif.github.io/arduino-esp32/package\_esp32\_index.json`*
+*`https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json`*
 
 1. Go to **Tools → Board → Boards Manager** and search for:\
    **“ESP32 by Espressif Systems”**\
