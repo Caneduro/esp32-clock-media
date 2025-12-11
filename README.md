@@ -88,7 +88,35 @@ Most C6 SuperMini boards auto-reset and you won’t need this step.
 - Open **Serial Monitor** (Tools → Serial Monitor) to check Wi-Fi logs or debug messages.
 - If using your BOOT button to toggle modes, verify it responds correctly once the device is running., \
 \
+
 \
+### **BUILDING INSTRUCTIONS**
+
+- Print the the file (1 part at a time or all at once as you prefer)
+
+- use your preferred method to put all the heat inserts: 
+            face: M2 x 3mm         screw: M2 x 7mm (at least more than 3mm)
+            rear: M2 x 2mm         screw: M2 x 6mm (at least more than 2mm)
+
+- solder 4 header pins (gnd - 3v3 - 20 -19) 
+
+- connect to screen with jumper cables: 
+
+   gnd with gnd
+
+   3v3 with 3v3 
+
+   pin 20 with SCK
+
+   pin 19 with SDA
+
+- "coil" the cable to fit all inside the enclosure
+
+- put the screen over the holes from the front and put the face 3d printed part over it then screw them to keep it in place
+
+- put the rear cover and screw it in place 
+
+
  
 **FULLY OPEN-SOURCE\
 All required files — firmware, the Python script, and all 3D models — are available on GitHub:\
