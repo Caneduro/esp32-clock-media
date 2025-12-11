@@ -1,0 +1,2 @@
+# Python Requirements
+pip install aiohttp winsdk pycaw comtypes requests pystray Pillow
