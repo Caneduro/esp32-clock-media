@@ -95,8 +95,8 @@ Most C6 SuperMini boards auto-reset and you won’t need this step.
 - Print the the file (1 part at a time or all at once as you prefer)
 
 - use your preferred method to put all the heat inserts: 
-            face: M2 x 3mm         screw: M2 x 7mm (at least more than 3mm)
-            rear: M2 x 2mm         screw: M2 x 6mm (at least more than 2mm)
+  - face: M2 x 3mm         - screw: M2 x 7mm (at least more than 3mm)
+  - rear: M2 x 2mm         - screw: M2 x 6mm (at least more than 2mm)
 
 - solder 4 header pins (gnd - 3v3 - 20 -19) 
 
