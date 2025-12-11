@@ -1,0 +1,10 @@
+ESP32-C6 Supermini dev board usb C
+4 solder pins (used to connect the screen with cables to the esp32)
+8 brass heat insert 
+8 screws:
+			face: M2 x 3mm 		screw: M2 x 7mm (at least more than 3mm)
+			rear: M2 x 2mm 		screw: M2 x 6mm (at least more than 2mm)	
+1,5mm Hex Key (to screw in the screws, you can also use the one wich comes with your 3d printer like A1 mini etc.. lol)			
+1 OLED SCREEN 128x64 px (i used an all white pixel one)
+4 dupont female-female cables (i used 10cm but i think less would be better) 
+13g of PLA and around 1H of your time ;)
