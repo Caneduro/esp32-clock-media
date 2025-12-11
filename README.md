@@ -97,6 +97,12 @@ All required files — firmware, the Python script, and all 3D models — are av
 The project is fully **open-source**.\
 Anyone can fork it, modify it, improve it, or contribute.\
 The current version is not 100% complete and can definitely be refined by someone with more experience — contributions are welcome!
+BTW right now all the text are in italian, so you need to change them to be your language + YOU NEED TO CHANGE WIFI CREDENTIALS OTHERWISE IT WON'T WORK AND OTA (if you need to)
+
+
+<img width="1206" height="784" alt="3D view" src="https://github.com/user-attachments/assets/9b33121f-6344-4fed-bbab-ece667476ef5" />
+
+<img alt="Back hollow" src="https://github.com/user-attachments/assets/2f2a5e2c-d96a-498d-9f3b-778637fda139" />
 
 
 
