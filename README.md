@@ -117,7 +117,6 @@ Most C6 SuperMini boards auto-reset and you won’t need this step.
 - put the rear cover and screw it in place 
 
 
- 
 **FULLY OPEN-SOURCE\
 All required files — firmware, the Python script, and all 3D models — are available on GitHub:\
 👉 https://github.com/caneduro/esp32-clock-media**
