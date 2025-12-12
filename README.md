@@ -1,7 +1,7 @@
 ## **Tiny Wi-Fi Clock / Media Display**
    A compact 3D-printed desk gadget that displays the time or, with a press of the **on-board BOOT button**, switches to show your PC’s current media activity (received via Wi-Fi from a small Python script).\
    The enclosure is printed in **three PLA parts** (front, middle, back) assembled with **heat inserts and screws** for a solid, serviceable build.\
-   It prints in about **1 hour** and uses only **~13 g of PLA** — perfect for a quick and satisfying build.
+   It prints in about **1 hour** and uses only **~14 g of PLA** — perfect for a quick and satisfying build.
    ### **Features**
 - 🕒 Clean, high-contrast oled **time** display
 - 🎵 **Media** mode with track info, progress, duration, play/pause status, volume, scrolling if text too long
@@ -10,7 +10,7 @@
 - 🧱 3-part enclosure with heat inserts + M2 screws
 - ⚡ USB type C connection 
 ### **Print Details**
-- 🧵 **Material:** PLA (~13 g)
+- 🧵 **Material:** PLA (~14 g)
 - ⏱ **Print time:** ~1 hour
 - 🧩 **Included 3MF parts:** front (screen cover), middle (electronics housing), rear
 ### **Bill of Materials**
